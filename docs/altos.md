@@ -60,7 +60,7 @@ Cons:
 * Limited support
 
   {: .note }
-  **Any** Chromebook with a Celeron or Pentium CPU is not supported.
+  **Any** Chromebook with a Celeron or Pentium CPU is not supported. ARM is also not supported as the M Chips are not regular ARM
 
 ### [Installing macOS →](installing-macos.html)
 

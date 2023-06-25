@@ -8,8 +8,10 @@ nav_order: 9
 Thanks to recent advancements in the chrultrabook community, Linux works really well on most Chromebooks.
 
 ### Installation:
-1. Create & install Linux as you would on any other device
-2. (TODO)
+1. Create a Linux (Fedora/Arch/Debian 12) USB. Ubuntu and Ubuntu based distros have outdated packages and thus are not supported.
+2. Plug the USB Drive into the chromebook.
+3. Turn on the chromebook, and let it boot the USB drive.
+4. install as you would on any other computer.
 
 
 ### Fixing Audio
